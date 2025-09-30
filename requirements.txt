@@ -1,0 +1,4 @@
+# requirements.txt
+streamlit
+pycryptodome
+python-telegram-bot==13.15
